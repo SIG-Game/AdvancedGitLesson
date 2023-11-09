@@ -1,0 +1,1 @@
+"Within C++, there is a much smaller and cleaner language struggling to get out." - Bjarne Stroustroup, creator of C++
